@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         清理百度搜索记录
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/favouriter/js/blob/master/clearbaidu
 // @version      0.1
-// @description  try to take over the world!
+// @description  当你使用百度搜索的时候是不是没错都要清理搜索记录，F12删除本地存储，或者百度图片清理cookie
 // @author       favouriter
 // @match        *://www.baidu.com/*
 // @match        *://image.baidu.com/*
