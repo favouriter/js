@@ -5,7 +5,7 @@
 // @description  当你使用百度搜索的时候是不是没错都要清理搜索记录，F12删除本地存储，或者百度图片清理cookie
 // @author       favouriter
 // @match        *://www.baidu.com/*
-// @match        *:/fanyi.baidu.com/*
+// @match        *://fanyi.baidu.com/*
 // @match        *://image.baidu.com/*
 // @grant        none
 // ==/UserScript==
